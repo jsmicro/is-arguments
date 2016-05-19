@@ -1,0 +1,27 @@
+{
+    "name": "jsmicro-is-arguments",
+    "version": "1.0.0",
+    "description": "Check does the given Javascript Object is an arguments.",
+    "main": "main.js",
+    "scripts": {
+        "test": "node test"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/jsmicro/is-arguments.git"
+    },
+    "keywords": [
+        "is-arguments",
+        "isarguments",
+        "arguments"
+    ],
+    "author": "Nanang Mahdaen El Agung <nanang@mahdaen.name> (http://mahdaen.name)",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/jsmicro/is-arguments/issues"
+    },
+    "homepage": "https://github.com/jsmicro/is-arguments#readme",
+    "devDependencies": {
+        "jsmicro-test": "^1.0.1"
+    }
+}
