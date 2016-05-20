@@ -54,6 +54,10 @@ test();
 
 ## Changelogs
 
+#### **`v1.0.1 - May 21, 2016`**
+
+* Added .npmignore
+
 #### **`v1.0.0 - May 19, 2016`**
 
 * Initial release.

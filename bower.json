@@ -1,5 +1,6 @@
 {
     "name": "jsmicro-is-arguments",
+    "version": "1.0.1",
     "description": "Check does the given Javascript Object is an arguments.",
     "main": "index.js",
     "authors": [
